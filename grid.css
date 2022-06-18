@@ -10,6 +10,18 @@ body {
     min-height: 100vh;
 }
 
+header a {
+    text-decoration: none;
+    background-color: rgb(255,164,1);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
 main {
     display: grid;
     grid-template-areas: 
