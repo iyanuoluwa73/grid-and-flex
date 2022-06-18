@@ -21,6 +21,18 @@ body {
     font-weight: 400;
 }
 
+header a{
+    text-decoration: none;
+    background-color: var(--col);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: var(--para);
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
 main {
     width: 70%;
     display: flex;
