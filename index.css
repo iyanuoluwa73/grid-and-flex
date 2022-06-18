@@ -21,7 +21,7 @@ body {
     font-weight: 400;
 }
 
-header a{
+header a {
     text-decoration: none;
     background-color: var(--col);
     padding: 10px 15px;
