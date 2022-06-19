@@ -9,10 +9,12 @@ body {
     place-items: center;
     min-height: 100vh;
 }
-
-header a {
+header {
+    margin-left: 3em;
+}
+header a{
     text-decoration: none;
-    background-color: rgb(255,164,1);
+    background-color: rgb(235,80,32);
     padding: 10px 15px;
     border-radius: 5px;
     color: white;
